@@ -1,0 +1,14 @@
+body {
+    background :#31430cf3;
+    color :rgb(189, 136, 136);
+    padding :20px;
+}
+.image-circle {
+   border :auto; 
+   margin :auto;
+}
+.pic {
+    width :50vh;
+    height :50vh;
+    border-radius :50%;
+}
