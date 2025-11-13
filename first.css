@@ -1,0 +1,73 @@
+body {
+    background :#ede7e7f3;
+    color :black;
+    padding :20px;
+    
+}
+
+#d1 {
+    background-color:black;
+    color:#f0ffffe8;
+    font-size: 50px;
+    text-align:center;
+}
+.box {
+    width :max-content;
+    margin :auto;
+}
+.product-desc {
+    display :block;
+    background :rgb(255, 255, 255);
+    border :1vh solid #fbf6f6;
+    padding :2vh;
+    width :100%;
+    height :auto;
+    object-fit :cover;
+    border-radius :1vh;
+}
+.product-class {
+    width :100%;
+    height :auto;
+    object-fit :cover;
+    display :block;
+    margin-bottom :10px;
+    border :1px solid white;
+}
+#d2 {
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    font-size :3vh;
+    text-transform :capitalize
+}
+p {
+    width :100%;
+    font-style :arial;
+    font-weight :500;
+    text-transform :capitalize;
+}
+.new-price {
+    font-weight :bold;
+    line-height :3vh;
+    font-size :20px;
+    color :rgba(29, 119, 55, 0.875);
+}
+.old-price {
+    text-decoration :line-through;
+    font-weight :bold;
+     font-size :20px;
+    line-height :3vh;
+}
+ 
+
+.click {
+    background-color :#2b10b7;
+    border :none;
+    padding :12px;
+    font-size :16px;
+    width :100%;
+    color :aliceblue;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+}
+    
+
+
+
